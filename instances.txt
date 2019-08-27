@@ -1,0 +1,32 @@
+Object: Tucker
+
+Attributes:
+  breed: "yorkshire_terrier"
+  color: "blue_gold"
+  weight: 10.1
+  vaccinations: ["rabies", "bordetella", "parvo"]
+  house_trained: true
+  date_of_birth: 11012006
+
+Methods:
+  calculate_age: 12.2
+  add_vaccination: ["rabies", "bordetella", "parvo", "distemper"]
+  change_weight: 10.1 + 0.2 = 10.3
+  calculate_size: small
+
+
+  Object: Duke
+
+  Attributes:
+    breed: "great_dane"
+    color: "fawn"
+    weight: 47.2
+    vaccinations: ["distemper", "parvo", "bordetella"]
+    house_trained: false
+    date_of_birth: 03112019
+
+  Methods:
+    calculate_age: 0.7
+    add_vaccination: ["rabies", "distemper", "parvo", "bordetella"]
+    change_weight: 47.2 + 12.4 = 59.6
+    calculate_size: large
