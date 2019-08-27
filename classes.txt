@@ -1,0 +1,17 @@
+Notating Classes
+
+Class: Dog
+
+Attributes:
+  breed (string)
+  color (string)
+  weight (float)
+  vaccinations (array)
+  house_trained (boolean)
+  date_of_birth (integer)
+
+Methods:
+  calculate_age (subtracts date_of_birth from current_date)
+  add_vaccination (append vaccination into the vaccinations array)
+  change_weight (changes the weight attribute)
+  calculate_size (takes weight and buckets into predefined size categories: toy, small, medium, large, giant)
