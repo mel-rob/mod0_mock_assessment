@@ -1,0 +1,64 @@
+Doing Laundry
+
+1 Sort clothes
+  1.1 Remove dirty clothes from hamper
+    1.1.1 Locate hamper
+    1.1.2 Use hands to pull clothes out of hamper
+    1.1.3 Place clothes on floor
+  1.2 Create pile of whites
+    1.2.1 Use hands to sift through clothes
+    1.2.2 Locate all pieces of white-colored clothing
+    1.2.3 Use hands to add all pieces of white-colored clothing to separate pile
+2 Add clothes to washer
+  2.1 Open washing machine door
+    2.1.1 Locate door on washing machine
+    2.1.2 Use hand to lift up or pull door open
+  2.2 Add clothing to washing machine
+    2.2.1 Locate pile of white-colored clothing
+    2.2.2 Use hands to pick up white-colored clothing
+    2.2.3 Put white-colored clothing inside washing machine
+    2.2.4 Use hand to close washing machine door
+3 Start wash cycle
+  3.1 Add soap
+      3.1.1 Locate laundry detergent
+      3.1.2 Use hand to twist top off
+      3.1.3 Locate line within detergent top
+      3.1.4 Use hand to pick up laundry detergent
+      3.1.5 Pour laundry detergent into top up to line
+    3.2 Add detergent to washing machine
+      3.2.1 Locate compartment for laundry detergent
+      3.2.2 Use hand to pull open or lift up door for detergent
+      3.2.3 Pick up top filled with detergent
+      3.2.4 Pour detergent into detergent compartment
+      3.2.5 Use hand to close door of detergent compartment
+  3.3 Select mode
+      3.3.1 Locate dial on washing machine
+      3.3.2 Use hand to turn dial to whites
+  3.4 Start cycle
+      3.4.1 Locate start button on washing machine
+      3.4.2 Use hand to push start button
+      3.4.3 Wait until cycle has completed
+4 Remove clothing
+  4.1 Open washing machine door
+    4.1.1 Locate door on washing machine
+    4.1.2 Use hand to lift up or pull door open
+  4.2 Open drying machine door
+    4.2.1 Locate door on drying machine
+    4.2.2 Use hand to lift up or pull door open
+  4.3 Move clothes from washing machine to drying machine
+    4.3.1 Use hand to pick up wet clothes in washing machine
+    4.3.2 Move wet clothes into drying machine
+5 Start dry cycle
+  5.1 Add dryer sheet
+    5.1.1 Locate dryer sheets
+    5.1.2 Use hand to open box
+    5.1.3 Use hand to pick up one dryer sheet
+    5.1.4 Add dryer sheet to drying machine
+    5.1.5 Use hand to close drying machine door
+  5.2 Select mode
+    5.2.1 Locate dial on drying machine
+    5.2.2 Use hand to turn dial to whites
+  5.3 Start cycle
+    5.3.1 Locate start button on drying machine
+    5.3.2 Use hand to push start button
+    5.3.3 Wait until cycle has completed
